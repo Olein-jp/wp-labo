@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "wp-env": "wp-env",
+    "stop": "wp-env stop",
     "start": "wp-env start",
     "update": "wp-env start --update"
   },
