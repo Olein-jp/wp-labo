@@ -3,7 +3,8 @@
     "phpVersion": "8.0",
     "plugins": [
         "https://downloads.wordpress.org/plugin/wp-multibyte-patch.zip",
-        "https://downloads.wordpress.org/plugin/query-monitor.zip"
+        "https://downloads.wordpress.org/plugin/query-monitor.zip",
+        "https://downloads.wordpress.org/plugin/user-switching.zip"
     ],
     "themes": [
         "https://downloads.wordpress.org/theme/twentytwentyfour.zip"
