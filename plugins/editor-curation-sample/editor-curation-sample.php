@@ -143,8 +143,8 @@ function wp_labo_enable_duotone_to_media_text_blocks( $args, $block_type ) {
  *
  * エディターの設定可能項目を確認するにはブラウザのコンソールで `wp.data.select( 'core/editor' ).getEditorSettings();` を実行する
  *
- * @param $settings 現在のエディターの設定の配列
- * @param $context 現在のブロックエディターのコンテキスト
+ * @param $settings
+ * @param $context
  *
  * @return mixed
  */
